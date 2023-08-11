@@ -14,6 +14,19 @@ I have answered the following questions using data analysis and visualizations i
 #### Dataset
 The data used in this analysis is from Kaggle. https://www.kaggle.com/datasets/gregorut/videogamesales. It can also be downloaded from this repository. 
 
+##### Data Dictionary:
+Rank - Ranking of overall sales
+Name - The games name
+Platform - Platform of the games release (i.e. PC,PS4, etc.)
+Year - Year of the game's release
+Genre - Genre of the game
+Publisher - Publisher of the game
+NA_Sales - Sales in North America (in millions)
+EU_Sales - Sales in Europe (in millions)
+JP_Sales - Sales in Japan (in millions)
+Other_Sales - Sales in the rest of the world (in millions)
+Global_Sales - Total worldwide sales (in millions)
+
 #### Insights
 1. North America is, by far, the biggest consumer of video games!
 2. Video gaming was very popular in 2008 and 2009 but has fallen in popularity since then. It may be interesting to conduct further analysis of activities that have gained popularity and why. 
