@@ -15,17 +15,17 @@ I have answered the following questions using data analysis and visualizations i
 The data used in this analysis is from Kaggle. https://www.kaggle.com/datasets/gregorut/videogamesales. It can also be downloaded from this repository. 
 
 ##### Data Dictionary:
-Rank - Ranking of overall sales
-Name - The games name
-Platform - Platform of the games release (i.e. PC,PS4, etc.)
-Year - Year of the game's release
-Genre - Genre of the game
-Publisher - Publisher of the game
-NA_Sales - Sales in North America (in millions)
-EU_Sales - Sales in Europe (in millions)
-JP_Sales - Sales in Japan (in millions)
-Other_Sales - Sales in the rest of the world (in millions)
-Global_Sales - Total worldwide sales (in millions)
+Rank - Ranking of overall sales <br>
+Name - The games name <br>
+Platform - Platform of the games release (i.e. PC,PS4, etc.) <br>
+Year - Year of the game's release <br>
+Genre - Genre of the game <br>
+Publisher - Publisher of the game<br>
+NA_Sales - Sales in North America (in millions) <br>
+EU_Sales - Sales in Europe (in millions) <br>
+JP_Sales - Sales in Japan (in millions) <br>
+Other_Sales - Sales in the rest of the world (in millions) <br>
+Global_Sales - Total worldwide sales (in millions) <br>
 
 #### Insights
 1. North America is, by far, the biggest consumer of video games!
